@@ -1,0 +1,11 @@
+p{
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.877);
+    font-weight: 500;
+    font-style: italic;
+    background-color:rgba(96, 30, 81, 0.938);
+    
+}

@@ -1,0 +1,16 @@
+
+div{
+    background-color: rgb(248, 213, 227);
+}
+
+p{
+   
+    height: 60px;
+    color: rgb(152, 50, 91);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    
+}
