@@ -1,0 +1,21 @@
+
+.breakfast-list{
+    align-content: center;
+    
+   
+    justify-content:center ;
+    /* background-color: rgb(229, 243, 193); */
+
+}
+
+.breakfast-list>label{
+font-size: large;
+/* align-content: center; */
+font-weight: 600;
+color: brown;
+background-color: rgb(225, 240, 193);
+display: ;
+
+
+
+}
