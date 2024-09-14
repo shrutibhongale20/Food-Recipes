@@ -19,4 +19,9 @@ import { ListOfRecipesComponent } from "./component/list-of-recipes/list-of-reci
 })
 export class AppComponent {
   title = 'Food-Recipes';
+
+
+
+
+
 }
